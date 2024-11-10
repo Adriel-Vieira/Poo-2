@@ -1,0 +1,13 @@
+C:\Users\Usuário\OneDrive\Desktop\Gab part\POO 2\bin\Debug\POO 2.exe.config
+C:\Users\Usuário\OneDrive\Desktop\Gab part\POO 2\bin\Debug\POO 2.exe
+C:\Users\Usuário\OneDrive\Desktop\Gab part\POO 2\bin\Debug\POO 2.pdb
+C:\Users\Usuário\OneDrive\Desktop\Gab part\POO 2\obj\Debug\POO 2.csproj.AssemblyReference.cache
+C:\Users\Usuário\OneDrive\Desktop\Gab part\POO 2\obj\Debug\POO_2.Tela_Login.resources
+C:\Users\Usuário\OneDrive\Desktop\Gab part\POO 2\obj\Debug\POO_2.Properties.Resources.resources
+C:\Users\Usuário\OneDrive\Desktop\Gab part\POO 2\obj\Debug\POO_2.Tela_Principal.resources
+C:\Users\Usuário\OneDrive\Desktop\Gab part\POO 2\obj\Debug\POO 2.csproj.GenerateResource.cache
+C:\Users\Usuário\OneDrive\Desktop\Gab part\POO 2\obj\Debug\POO 2.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\OneDrive\Desktop\Gab part\POO 2\obj\Debug\POO 2.exe
+C:\Users\Usuário\OneDrive\Desktop\Gab part\POO 2\obj\Debug\POO 2.pdb
+C:\Users\Usuário\OneDrive\Desktop\Gab part\POO 2\obj\Debug\POO_2.CadastroProdutos.resources
+C:\Users\Usuário\OneDrive\Desktop\Gab part\POO 2\obj\Debug\POO_2.CadastroFuncionarios.resources
